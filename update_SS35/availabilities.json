@@ -1,0 +1,23 @@
+{
+    "head": {
+        "store_mapping": [
+            {
+                "store_id": "SS35",
+                "fulfillment_node_id": "SS35"
+            }
+        ],
+        "mode": "on_hand"
+    },
+    "items": [
+        {
+            "product_id": "MKF2025-NVH-L",
+            "quantity": 9999
+            "fulfillment_node_id": "SS35"
+        },
+		{
+            "product_id": "MAC0006-NVY-10",
+            "quantity": 9999,
+            "fulfillment_node_id": "SS35"
+        }
+    ]
+}
