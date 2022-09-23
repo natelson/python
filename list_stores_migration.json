@@ -1,0 +1,62 @@
+{
+    "stores": [
+        {
+            "store_id": "DIXST"
+        },
+        {
+            "store_id": "DONST"
+        },
+        {
+            "store_id": "FOYST"
+        },
+        {
+            "store_id": "MTLST"
+        },
+        {
+            "store_id": "RIDST"
+        },
+        {
+            "store_id": "STANST"
+        },
+        {
+            "store_id": "STWST"
+        },
+        {
+            "store_id": "TECST"
+        },
+        {
+            "store_id": "TOST"
+        },
+        {
+            "store_id": "VANST"
+        },
+        {
+            "store_id": "VIAST"
+        },
+        {
+            "store_id": "KITST"
+        },
+        {
+            "store_id": "SQOST"
+        },
+        {
+            "store_id": "BROST"
+        },
+        {
+            "store_id": "SOHST"
+        },
+        {
+            "store_id": "FPCST"
+        },
+        {
+            "store_id": "HALST"
+        },
+        {
+            "store_id": "SNBST"
+        },
+        {
+            "store_id": "WHSALE"
+        }
+
+    ]
+}
